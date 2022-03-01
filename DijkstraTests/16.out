@@ -1,0 +1,90 @@
+Node 0
+  Distances
+    0 : 0
+    1 : 16
+    2 : 37
+    3 : 17
+    4 : 28
+    5 : 13
+  Predecessors
+    0 : NULL
+    1 : [0]->NULL
+    2 : [1]->NULL
+    3 : [0]->NULL
+    4 : [3]->NULL
+    5 : [0]->NULL
+Node 1
+  Distances
+    0 : INF
+    1 : 0
+    2 : 21
+    3 : 10
+    4 : 21
+    5 : 14
+  Predecessors
+    0 : NULL
+    1 : NULL
+    2 : [1]->NULL
+    3 : [1]->NULL
+    4 : [3]->NULL
+    5 : [3]->NULL
+Node 2
+  Distances
+    0 : INF
+    1 : INF
+    2 : 0
+    3 : 12
+    4 : 23
+    5 : 16
+  Predecessors
+    0 : NULL
+    1 : NULL
+    2 : NULL
+    3 : [2]->NULL
+    4 : [3]->NULL
+    5 : [3]->NULL
+Node 3
+  Distances
+    0 : INF
+    1 : INF
+    2 : INF
+    3 : 0
+    4 : 11
+    5 : 4
+  Predecessors
+    0 : NULL
+    1 : NULL
+    2 : NULL
+    3 : NULL
+    4 : [3]->NULL
+    5 : [3]->NULL
+Node 4
+  Distances
+    0 : INF
+    1 : INF
+    2 : INF
+    3 : INF
+    4 : 0
+    5 : 71
+  Predecessors
+    0 : NULL
+    1 : NULL
+    2 : NULL
+    3 : NULL
+    4 : NULL
+    5 : [4]->NULL
+Node 5
+  Distances
+    0 : INF
+    1 : INF
+    2 : INF
+    3 : INF
+    4 : INF
+    5 : 0
+  Predecessors
+    0 : NULL
+    1 : NULL
+    2 : NULL
+    3 : NULL
+    4 : NULL
+    5 : NULL
